@@ -21,7 +21,7 @@ public class ProductRepositoryMockTest {
     @Test
     public void whenFindByCategory_thenReturnListProduct(){
         Product product01 = Product.builder()
-                .name("computer")
+                .name("jjjj")
                 .category(Category.builder().id(1).build())
                 .description("")
                 .stock(Double.parseDouble("10"))
