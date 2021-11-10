@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>config-service</name>
-	<comment>Project config-service created by Buildship.</comment>
+	<name>service-product</name>
+	<comment>Project service-product created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
@@ -22,7 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1636577006465</id>
+			<id>1636577006495</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
